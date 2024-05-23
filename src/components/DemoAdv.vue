@@ -80,7 +80,7 @@ export default {
   },
   methods: {
     onPlayerReady(player) { // eslint-disable-line no-unused-vars
-	  // player 为一个 ZWPlayer 实例
+      // player 为一个 ZWPlayer 实例
       console.log('player ready event.');
     },
     onPlayerMediaEvent(event, player) { // eslint-disable-line no-unused-vars
